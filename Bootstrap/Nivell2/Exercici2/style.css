@@ -1,0 +1,49 @@
+.text-primary
+{
+    color:red !important;
+}
+
+.text-secondary
+{
+    color:yellow !important;
+}
+
+.text-success
+{
+    color:orange !important;
+}
+
+.text-danger
+{
+    color:green !important;
+}
+
+.text-warning
+{
+    color:violet !important;
+}
+
+.text-info
+{
+    color:brown !important;
+}
+
+.text-light
+{
+    color: grey !important;
+}
+
+.text-dark
+{
+    color: blue !important;
+}
+
+.text-muted
+{
+    color: magenta !important;
+}
+
+.text-white
+{
+    color: greenyellow !important;
+}
